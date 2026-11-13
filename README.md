@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/stairrax-banner.svg" alt="Stairrax — neon violet and cyan crystal banner" width="100%" />
+<img src="assets/stairrax-night-banner.webp" alt="Stairrax — neon violet and cyan crystal banner" width="100%" />
 
 <br />
 
