@@ -46,7 +46,7 @@ My main project is **Konspekt Diktor**, an open-source study companion. I work w
 <div align="center">
 
 <a href="https://stairrax.github.io/helper-with-conspects/">
-  <img src="https://raw.githubusercontent.com/Stairrax/helper-with-conspects/main/screenshots/demo-aurora.gif" width="290" alt="Konspekt Diktor — Aurora theme demo" />
+  <img src="https://raw.githubusercontent.com/Stairrax/helper-with-conspects/main/screenshots/demo-aurora.gif?v=4762679" width="290" alt="Konspekt Diktor — pause dictation, ask a question, and resume in the Aurora theme" />
 </a>
 
 **[Try the app](https://stairrax.github.io/helper-with-conspects/)** · **[Explore the code](https://github.com/Stairrax/helper-with-conspects)** · **[Report an issue](https://github.com/Stairrax/helper-with-conspects/issues)**
